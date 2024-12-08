@@ -37,12 +37,13 @@ more mathematical detail than the main text. Generally, they do not add
 more intuition to the physical arguments, but they serve as
 justification for some of the advanced developments.
 
-###References
-[1] Bird, R., Stewart, W., Lightfoot, E.; <int>Transport Phenomena<\int>. 2nd Ed., John Wiley and Sons, New York.
+### References
+
+[1] Bird, R., Stewart, W., Lightfoot, E.; *Transport Phenomena*. 2nd Ed., John Wiley and Sons, New York.
         
-[2] Geankoplis, C. J.; <int>Transport Processes and Unit Operations<\int>, 3rd Ed., Prentice Hall, 2003. 
+[2] Geankoplis, C. J.; *Transport Processes and Unit Operations*, 3rd Ed., Prentice Hall, 2003. 
     
-[3] Welty, J., Rorrer G. L., Foster D. G.; <int>Fundamentals of Momentum, Heat, and Mass Transfer<\int>, 6th Ed., Wiley Global Education US, 2013.
+[3] Welty, J., Rorrer G. L., Foster D. G.; *Fundamentals of Momentum, Heat, and Mass Transfer*, 6th Ed., Wiley Global Education US, 2013.
 
 ```python
 

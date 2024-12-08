@@ -14,8 +14,8 @@ This repository offers a brief mathematical view behind the main equations
 of differential analysis in transport phenomena. There are no numerical
 examples, but rather, the goal is to develop a theoretical understanding
 of differential conservation equations and *why* they have their form.
-Thus, motivated <ins>derivations</ins> are the main results of this
-document along with several methods of analyzing the resulting
+Thus, motivated <ins>derivations</ins> are the main results of these
+notebooks along with several methods of analyzing the resulting
 equations.
 
 In this light, physical arguments will be used rather than full

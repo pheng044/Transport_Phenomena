@@ -1,14 +1,11 @@
+%%latex
 # Notes on Transport Phenomena
 
-
 $$\rho\frac{\partial\mathbf{u}}{\partial t}+\rho\mathbf{u}\cdot\nabla\mathbf{u}=\mu\nabla^2\mathbf{u}-\nabla P+\rho\mathbf{G}$$
-
-
 
 ### P.V. Heng
 
 ### 12/08/24
-
 
 This repository offers a brief mathematical view behind the main equations
 of differential analysis in transport phenomena. There are no numerical

@@ -1,7 +1,4 @@
-%%latex
 # Notes on Transport Phenomena
-
-$$\rho\frac{\partial\mathbf{u}}{\partial t}+\rho\mathbf{u}\cdot\nabla\mathbf{u}=\mu\nabla^2\mathbf{u}-\nabla P+\rho\mathbf{G}$$
 
 ### P.V. Heng
 

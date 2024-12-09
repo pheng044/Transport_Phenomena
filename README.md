@@ -2,8 +2,6 @@
 
 ### P.V. Heng
 
-### 12/08/24
-
 This repository offers a brief mathematical view behind the main equations
 of differential analysis in transport phenomena. There are no numerical
 examples, but rather, the goal is to develop a theoretical understanding

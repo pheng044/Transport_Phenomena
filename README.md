@@ -43,6 +43,15 @@ justification for some of the advanced developments.
     
 [3] Welty, J., Rorrer G. L., Foster D. G.; *Fundamentals of Momentum, Heat, and Mass Transfer*, 6th Ed., Wiley Global Education US, 2013.
 
+[4] Incropera, F. P., Bergman, T. L., Lavine, A. S., Dewitt, D. P., *Fundamentals of Heat and Mass Transfer*, 7th ed.; Wiley, 2013.
+
+[5] Haberman, R. ; *Applied Partial Differential Equations with Fourier Series and Boundary Value Problems*, 3rd Ed., Prentice Hall, 1997.
+
+[6] Farlow, S. J.; *Partial Differential Equations for Scientists and Engineers*, 2nd Ed, Dover Publications, 2012.
+
+[7] Evans L.C.; *Partial Differential Equations*, 2nd Ed., American Mathematical Society, 2010.
+
+
 ```python
 
 ```

@@ -3,8 +3,7 @@
 ### P.V. Heng
 
 This repository offers a brief mathematical view behind the main equations
-of differential analysis in transport phenomena. There are no numerical
-examples, but rather, the goal is to develop a theoretical understanding
+of differential analysis in transport phenomena. The goal is to develop a theoretical understanding
 of differential conservation equations and *why* they have their form.
 Thus, motivated <ins>derivations</ins> are the main results of these
 notebooks along with several methods of analyzing the resulting
@@ -17,10 +16,10 @@ required (including vector calculus!). If you need a refresher on vector
 calculus notation, refer to Appendix 1 or this
 [video](https://www.youtube.com/watch?v=2DSgBZa7b88&ab_channel=BrianStorey).
 The analysis is not simple, so you may be tempted to skip it, but by
-reading this document carefully and working through the arguments
+working through the notebooks carefully and working through the arguments
 yourself, you should develop a reasonable intuition of the differential
 transport equations. This is not to say that every mathematical step
-must be understood line by line, but skipping to the end to memorize
+must be understood line by line, but skipping to the main results to memorize
 equations does not lead to good intuition. One cannot expect to be able
 to successfully perform calculations without a gut feeling for what the
 equations mean. Besides, in any practical applications of transport
@@ -34,6 +33,18 @@ In contrast, the appendices are completely optional to read and go into
 more mathematical detail than the main text. Generally, they do not add
 more intuition to the physical arguments, but they serve as
 justification for some of the advanced developments.
+
+Also included are brief passages on analytical and numerical solutions
+to some of the transport equations.
+
+The following are recommended references for an introduction to transport
+phenomena; [1] is particularly recommended for an intuitive yet rigorous 
+development of the subject. Also included are references for the theory
+of partial differential equations which are the fundamental language of 
+conservation laws. [5] and [6] are accessible to anyone familiar with 
+ordinary differential equations and multivariable calculus. [7] is a much 
+more rigorous text that offers full justifications to analytical solution
+methods to PDE's.
 
 ### References
 

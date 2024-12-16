@@ -2,8 +2,8 @@
 
 ### P.V. Heng
 
-This repository offers a brief mathematical view behind the main equations
-of differential analysis in transport phenomena. The goal is to develop a theoretical understanding
+This repository offers a brief mathematical view behind the main differential equations 
+in transport phenomena. The goal is to develop a theoretical understanding
 of differential conservation equations and *why* they have their form.
 Thus, motivated <ins>derivations</ins> are the main results of these
 notebooks along with several methods of analyzing the resulting
